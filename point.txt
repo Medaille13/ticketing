@@ -1,0 +1,9 @@
+nrp run dev -> pour le style et pour le js
+webpack mixte
+
+
+
+npm run dev -> pour la mise en place des fichiers -> pour aussi nouveau fichier css ou js
+npm run watch -> pour la maj des fichiers
+
+à chaque modification du fichier webpack.mix.js -> faire obligatoirement npm run dev
