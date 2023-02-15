@@ -14,7 +14,8 @@
     <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
 
     <!-- Styles -->
-    <link rel="stylesheet" href="{{ mix('css/app.css') }}">   
+    <!--<link rel="stylesheet" href="{{ mix('css/app.css') }}">   C'est ce qui avait avant tail wind-->
+    <link rel="stylesheet" href="{{ ('styles.css') }}"> <!-- ça c'est suite à tailwind >>
 </head>
 <body>
     <div id="app">
